@@ -1,0 +1,27 @@
+header.jumbotron {
+  text-align: center;
+  background-image: url(https://pic.90sjimg.com/back_origin_pic/05/56/56/166fbf74b2a894c3d01004efd3034dc9.jpg!/watermark/url/LzkwX3dhdGVyX3Y2LnBuZw==/repeat/true);
+  background-size: cover;
+  background-position: center center;
+  padding: 80px;
+  color: rgba(98, 182, 227, 0.78);
+  border-radius: 0%;
+}
+
+h1{
+  font-size: 70px;
+}
+
+body{
+  background-color: rgba(198, 235, 229, 0.23);
+}
+
+.genderSelector{
+  width: 80px;
+}
+
+.card-footer{
+  display: flex;
+  justify-content: space-between;
+}
+
