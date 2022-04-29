@@ -1,4 +1,4 @@
-//test1
+//test1-1
 (function () {
   // new variable
   const INDEX_URL = 'https://lighthouse-user-api.herokuapp.com/api/v1/users/'
@@ -28,8 +28,16 @@
     }).catch((err) => console.log(err))
 
 
-  
-  
+  // test
+  // test2
+  // test3
+  // test4
+  // test5
+  // test6
+  // test7
+  // test8
+  // test9
+  // test10
 
   genderButton.addEventListener('click',(event) => {
     if (event.target.matches('.genderButtonMan')){
